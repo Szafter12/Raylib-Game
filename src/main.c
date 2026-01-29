@@ -1,7 +1,6 @@
 #include "Game/Game.h"
 
-int main(void)
-{
+int main(void) {
     Game game;
 
     InitWin(&game, 800, 600, 60);
